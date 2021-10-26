@@ -30,16 +30,16 @@ ruby main.rb
 
 ## Authors
 
-👤 **Akasha Rojee**
-- GitHub: [@AkashaRojee](https://github.com/AkashaRojee)
-- Twitter: [@AkashaRojee](https://twitter.com/AkashaRojee)
-- LinkedIn: [Akasha Rojee](https://linkedin.com/in/AkashaRojee)
-
 👤 **NGANULO RUSHANIKA Moise**
 
 - GitHub: [@githubhandle](https://github.com/moise10r)
 - Twitter: [@twitterhandle](https://twitter.com/MRushanika)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nganulo-rushanika-mo%C3%AFse-626139197/)
+
+👤 **Akasha Rojee**
+- GitHub: [@AkashaRojee](https://github.com/AkashaRojee)
+- Twitter: [@AkashaRojee](https://twitter.com/AkashaRojee)
+- LinkedIn: [Akasha Rojee](https://linkedin.com/in/AkashaRojee)
 
 👤 **Tolibjon Tolibov**
 
